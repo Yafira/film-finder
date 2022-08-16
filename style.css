@@ -1,5 +1,5 @@
 body {
-	background-color: #9044c0;
+	background-color: #42149e;
 	color: #f8f562;
 }
 
@@ -9,6 +9,13 @@ body {
 	display: block;
 	font-family: 'Staatliches', sans-serif;
 	font-size: 80px;
+}
+#logo {
+	margin: 0px auto;
+	padding: 0;
+	max-width: 100px;
+	text-align: center;
+	display: block;
 }
 
 #genreForm,
@@ -60,9 +67,13 @@ img#moviePoster {
 	padding: 7px 10px;
 	border-radius: 10px;
 	border-style: none;
-	background-color: #3ba8b0;
+	background-color: #23868d;
 	color: #fdc238;
 	cursor: pointer;
+}
+
+#playBtn:hover {
+	background-color: #3ea1a9;
 }
 
 label {
