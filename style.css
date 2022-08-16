@@ -1,6 +1,6 @@
 body {
-	background-color: #7f0920;
-	color: #0a0408;
+	background-color: #9044c0;
+	color: #f8f562;
 }
 
 #appTitle {
@@ -60,7 +60,7 @@ img#moviePoster {
 	padding: 7px 10px;
 	border-radius: 10px;
 	border-style: none;
-	background-color: #b97828;
+	background-color: #3ba8b0;
 	color: #fdc238;
 	cursor: pointer;
 }
